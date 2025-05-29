@@ -24,7 +24,7 @@ safe=0
 
 def inc_counter():
 	global request_counter
-	request_counter+=9999
+	request_counter+=100000
 
 def set_flag(val):
 	global flag
